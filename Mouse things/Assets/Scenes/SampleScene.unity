@@ -847,6 +847,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sp: {fileID: 0}
   newSprite: {fileID: 10915, guid: 0000000000000000f000000000000000, type: 0}
+  originalSprite: {fileID: -5177388603050735206, guid: 71ebafeef3c03457483266a33ab2b270, type: 3}
 --- !u!212 &1933060511
 SpriteRenderer:
   m_ObjectHideFlags: 0
